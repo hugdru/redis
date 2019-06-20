@@ -74,10 +74,10 @@ domains:
       Server Authentication: [shared keyfile]
       Credential Store: external file
       Role Based Security: not supported
-      Security Role Options: not supported
+      Security Role Options: [not supported]
       Scope of Roles: [database]
       Database Encryption: not supported
-      Logging: no logging
+      Logging: [no logging]
     Admin:
       Configuration Files: single
       Node command line access: non-authenticated
