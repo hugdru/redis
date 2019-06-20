@@ -72,7 +72,7 @@ domains:
     Security:
       Client Authentication: [custom user/password]
       Server Authentication: [shared keyfile]
-      Credential Store: external file
+      Credential Store: [external file]
       Role Based Security: not supported
       Security Role Options: [not supported]
       Scope of Roles: [database]
