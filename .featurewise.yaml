@@ -63,7 +63,7 @@ domains:
       Replica Recovery and Resynchronization: supported - automatic
     Data Distribution:
       Data Distribution Architecture: [master-single slave, master-multiple slaves]
-      Data Distribution Method: hash key
+      Data Distribution Method: [hash key]
       Automatic Data Rebalancing: [administrative rebalancing tools]
       Physical Data Distribution: [single cluster, multiple data centers]
       Query Architecture: direct shard connection only (resolved in client)
