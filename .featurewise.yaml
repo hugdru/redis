@@ -21,9 +21,9 @@ domains:
       Quorum Reads and Writes: not supported
       Number of Replicas to Read: master-slave
       Number of Replicas to Write: specified in the database configuration
-      Writes with Unavailable Replicas: no rollback: write returns replication error
+      Writes with Unavailable Replicas: "no rollback: write returns replication error"
       Read from Master Only: specified in the client
-      Resolving Write Conflicts: not applicable: master-slave
+      Resolving Write Conflicts: "not applicable: master-slave"
     Query Language:
       API-based: supported
       Declarative Query Language: not suppported
